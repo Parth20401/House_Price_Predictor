@@ -25,15 +25,14 @@ The web app has been build using basic HTML, CSS, Javascript and Flask.
 
 * ## Screenshots :
 * Here are some screenshots of the house prediction website:
-  ![image](https://github.com/Parth20401/Bangalore_house_Pred/assets/97301303/d19e68f1-d1a5-4947-ba80-ebd32b9c8cdf)
-  
-  ![image](https://github.com/Parth20401/Bangalore_house_Pred/assets/97301303/d76b410c-5d72-4397-949d-62e5f6476995)
+  ![Screenshot 2023-10-14 135303](https://github.com/Parth20401/House_Price_Predictor/assets/97301303/368c5fff-49b8-4e41-be0d-736957f8319a)
+
+  ![Screenshot 2023-10-14 135804](https://github.com/Parth20401/House_Price_Predictor/assets/97301303/18301acc-2009-4ece-9479-e9bcde141db3)
 
   <p>
     Here is how the list of different places is shown:
   </p>
+      
+  ![Screenshot 2023-10-14 135525](https://github.com/Parth20401/House_Price_Predictor/assets/97301303/c24f3a0e-7dfd-41ce-b469-6914b84c6fb9)
 
-  ![image](https://github.com/Parth20401/Bangalore_house_Pred/assets/97301303/4b7c4e97-76b2-41cc-9321-7566199f35ee)
-
-  
 
